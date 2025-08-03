@@ -1,5 +1,3 @@
-import os
-print(os.getcwd())
 # Importing required libraries
 import pandas as pd
 import numpy as np
